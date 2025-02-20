@@ -1,4 +1,4 @@
-# AIGS_Intership
+# AIGS_Internship
 Training classes of Edunet Internship from 10 feb 25 to 20 feb 25
 
 ##Green Skills and AI Learning Journey
